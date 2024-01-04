@@ -16,5 +16,6 @@ A vehicle listing app made using the MERN Stack.
 3. MongoDB
 
 
-
 # API's :
+1. Cloudinary
+2. RESTful APIs
